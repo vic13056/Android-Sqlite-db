@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My SqLite Database App</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_id_number">Enter ID Number</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+</resources>
